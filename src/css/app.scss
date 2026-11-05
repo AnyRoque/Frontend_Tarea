@@ -1,0 +1,14 @@
+// app global css
+body {
+  background: #f7f7f9;
+}
+
+.contenedor {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.capitalizar::first-letter {
+  text-transform: uppercase;
+}
